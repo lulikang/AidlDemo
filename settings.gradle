@@ -1,0 +1,3 @@
+include ':locationrecord'
+include ':app'
+rootProject.name = "AidlDemo"
